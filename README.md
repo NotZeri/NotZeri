@@ -11,6 +11,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NotZeri&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-![](https://komarev.com/ghpvc/?username=NotZeri&color=blue) ![Total Downloads](https://img.shields.io/github/downloads/NotZeri/[YOURREPO](https://github.com/NotZeri/Zeri-Mod-Manager)/total?style=for-the-badge) :(
+![](https://komarev.com/ghpvc/?username=NotZeri&color=blue) ![Total Downloads](https://img.shields.io/github/downloads/NotZeri/Zeri-Mod-Manager/total?style=for-the-badge) :(
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
