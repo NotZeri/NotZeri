@@ -1,5 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on a Bepinex Installer for 2022 Mono Unity games<br>- 🌱 I’m currently learning Python and C#
+- 🔭 I’m currently working on a Bepinex Installer for 2022 Mono Unity games
+- 🌱 I’m currently learning Python and C#
 
 
 # 💻 Tech Stack:
