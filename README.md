@@ -14,6 +14,6 @@
 
 
 ---
-![](https://komarev.com/ghpvc/?username=NotZeri&color=blue) ![Downloads](https://img.shields.io/github/downloads/NotZeri/Zeri-Mod-Manager/total?color=blue) :(
+![](https://komarev.com/ghpvc/?username=NotZeri&color=blue) :(
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
