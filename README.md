@@ -1,7 +1,7 @@
 # 💫 About Me:
-- 🔭 I’m currently working on a Bepinex Installer for 2022 Mono Unity games
+- 🔭 I’m currently working on VFK 2D
 - 🌱 I’m currently learning Python and C#
-- Make sure to go check out my new Zeri Mod Manager!
+- Make sure to go check out websites!
 
 
 # 💻 Tech Stack:
